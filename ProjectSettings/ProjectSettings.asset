@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 500183aa997e5bf4eb8e3703274db5bf
+  productGUID: 5aff85b34f032a847b4d096bb29a2b88
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Lights_Out.1
+  productName: LIGHTS_OUT2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -721,14 +721,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Lights_Out.1
+  metroPackageName: LIGHTS_OUT2
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Lights_Out.1
+  metroApplicationDescription: LIGHTS_OUT2
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -794,12 +794,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4b1272a7-d664-4a15-82fb-78469975acca
+  cloudProjectId: ae31a115-caca-46c0-a71a-9385da5ed83c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Lights_Out.1 2025-02-28_21-00-04
+  projectName: LIGHTS_OUT2
   organizationId: uafrancisco21
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
